@@ -1,0 +1,9 @@
+.producto img{
+    width: 180px;
+}
+.card{
+    border: 3px solid rgb(87, 255, 171);
+}
+.form{
+    background-color: rgb(144, 248, 213);
+}
